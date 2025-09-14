@@ -1,3 +1,13 @@
+.section-header {
+  background: #003f63;
+  padding: 24px 22px;
+  border-radius: 12px;
+  margin: 30px auto;
+  color: #fff; /* Makes text readable on a dark background */
+  max-width: 750px;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+  text-align: center;
+}
 .section-box {
   background: #003f63;
   padding: 28px 22px;
@@ -6,6 +16,9 @@
   color: #fff; /* Makes text readable on a dark background */
   max-width: 750px;
   box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+}
+.section-box h1 {
+  color: #fff;
 }
 .section-box h2 {
   color: #fff;
