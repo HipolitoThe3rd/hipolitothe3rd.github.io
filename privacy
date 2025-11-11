@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cyber-Angel - Computer Tutoring & Troubleshooting Services</title>
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #005792;
+      color: #fff;
+      padding: 20px 10px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      background: #003f63;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #F0F0F0;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #eee;
+      margin-top: 30px;
+    }
+    .price {
+      font-weight: bold;
+      color: #333;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>CYBER-ANGEL</h1>
+    <h2>Computer Tutoring & Troubleshooting</h2>
+    <p>Helping you get comfortable with technology</p>
+  </header>
+
+  <div class="container">
+    <h2 class="section-header">Privacy Policy</h2>
+    <h3>Last Updated: November 11, 2025</h3>
+    <p>
+    Cyber-Angel is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and protect your personal information when you visit our website cyber-angel.tech, request tutoring services, or submit information for custom tutoring inquiries. By using our site or services, you agree to this policy.
+    </p>
+    <ol>
+
+    </ol>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Cyber-Angel</p>
+  </footer>
+
+</body>
+</html>
